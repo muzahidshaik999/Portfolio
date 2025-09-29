@@ -2,7 +2,7 @@
 
 // Emoji changer for logo
 let currentEmojiIndex = 0;
-const emojis = ['🚀', '💡', '⚡', '🎯', '🔥', '✨', '🌟', '💻', '🎉', '🏆'];
+const emojis = ['😎', '🥹', '😭', '😉', '😍', '😘', '😮‍💨', '🙂', '🙃', '🤔','🌝'];
 
 function changeEmoji() {
     const logoEmoji = document.querySelector('.logo-emoji');
